@@ -1,0 +1,146 @@
+Gas Leakage Detector Using Arduino
+
+Hardware Specifications
+Arduino
+LCD
+Wi-Fi module
+Dc fan
+Gas sensor
+Buzzer
+Regulator
+Crystal Oscillator
+Resistors
+Capacitors
+Transistors
+Cables and Connectors
+Diodes
+PCB and Breadboards
+LED
+Transformer/Adapter
+Push Buttons
+Switch
+IC
+IC Sockets
+
+
+
+Gas Leakage Detection with Buzzer System using Atmega
+
+
+Components
+Atmega Microcontroller
+LCD
+Wi-Fi Module
+Gas Sensor
+Crystal Oscillator
+Resistors
+Capacitors
+Transistors
+Cables and Connectors
+Diodes
+PCB and Breadboards
+LED
+Transformer/Adapter
+Push Buttons
+Switch
+IC
+IC Sockets
+
+
+Air & Sound Pollution Monitoring System
+
+Hardware Specifications
+Atmega Microcontroller
+MQ 135 Sensor
+Mic Sensor
+ESP8266 Wifi Module
+LCD Display
+Crystal Oscillator
+Resistors
+Capacitors
+Transistors
+Cables and Connectors
+Diodes
+PCB and Breadboards
+LED
+Transformer/Adapter
+Push Buttons
+Switch
+IC
+IC Sockets
+Software Specifications
+Arduino Compiler
+MC Programming Language: C
+IOTGecko
+
+Weather Reporting
+
+Hardware Specifications
+Atmega Microcontroller
+DHT11 Digital Temperature Humidity Sensor
+Rain Drop Sensor
+ESP8266 Wifi Module
+LCD Display
+Crystal Oscillator
+Resistors
+Capacitors
+Transistors
+Cables and Connectors
+Diodes
+PCB and Breadboards
+LED
+Transformer/Adapter
+Push Buttons
+Switch
+IC
+IC Sockets
+Software Specifications
+Arduino Compiler
+MC Programming Language: C
+IOTGecko
+
+
+
+
+Fire Department Alerting System
+Hardware Specifications
+Arduino Uno R3
+ESP8266 Wifi Module
+PIR Sensor Module
+LCD Display
+Crystal Oscillator
+Resistors
+Capacitors
+Transistors
+Cables & Connectors
+Diodes
+PCB
+LED’s
+Transformer/Adapter
+Push Button
+
+Software Specifications
+Arduino Compiler
+MC Programming Language: C
+
+
+
+
+
+
+
+
+
+
+Air Pollution Monitoring System using Arduino
+
+Required Components:
+MQ135 Gas sensor
+Arduino Uno
+Wi-Fi module ESP8266
+16X2 LCD
+Breadboard
+10K potentiometer
+1K ohm resistors
+220 ohm resistor
+Buzzer
