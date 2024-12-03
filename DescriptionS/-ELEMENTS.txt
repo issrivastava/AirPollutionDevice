@@ -1,0 +1,72 @@
+-ELEMENTS 
+Oxygen O2
+H2O
+Helium He 
+Argon Ar
+Xenon (Xe)
+Neon (Ne)
+Nitrogen N2
+Radon (Rn)
+Arsenic (As)
+Chlorine Gas Cl₂
+elemental carbon
+lead 
+cadmium 
+nickel
+
+-INSTANT DEATH
+Nerve Agents (Chemical Warfare Gases) 
+Sarin(GB)
+VX
+Soman (GD)
+Tabun (GA).
+HCN- Zyklon B 
+
+MAIN POLLUTANTS
+CO₂  
+CO
+HCN
+H₂S 
+SO₂
+COCl₂
+Cl₂
+NOx NO₂ 
+NH₃
+CH₄
+O₃
+
+GAS LEAKAGE
+Liquefied Petroleum Gas (LPG)
+	propane (C₃H₈) 
+	butane (C₄H₁₀)
+Natural Gas
+	methane (CH₄) 
+	ethane
+
+
+Particulate Matter(PM2.5 and PM10)
+
+-AROMATIC COMPOUNDS
+benzene
+toluene
+benzopyrene 
+naphthalene
+Xylene
+terpenes 
+phenylpropanoids
+
+
+Volatile Organic Compounds (VOCs) 
+
+ORGANIC CARBON CONTAINING 
+
+Methane CH₄
+Carbon Monoxide CO
+Carbon Dioxide CO₂
+Hydrogen Cyanide HCN
+Vinyl Chloride (C₂H₃Cl) 
+formaldehyde CH2O
+acetaldehyde
+Acrolein (C₃H₄O)
+nicotine (C10H14N2)
+Phosgene COCl₂

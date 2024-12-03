@@ -1,0 +1,33 @@
+1. 
+Things I want in my device
+Detection of the level of air pollution, poisonous/toxic gases with as minimum error as possible .
+quality and composition of Gases present should be visible to the user.
+Alarming system to contact the concerned authorities in case of a Gas Leakage, Fire Accident etc.
+Displaying/Using color system to inform the level of poisonous gases.
+Should be able to tell the difference/distinguish between smoke produced by Cigarettes, Agarbatti etc.
+Wildly Scattered / Easily available to everyone.
+Should be reasonably priced (economical).
+WIFI connectivity
+device should be Compactly packet.
+requiring very limited source of energy like just a 'Regular Battery'.
+Can be easily Hanged on Wall or placed on a Table/Rack/Shelf.
+
+
+2.
+Functions of my Device 
+
+•SENSOR TO DETECT AIR QUALITY AND CONTENTS PERCENTAGE WISE
+ O2-% CO2-% ETC
+•LIGHT FOR INDICATION (RED YELLOW GREEN)
+•DISPLAY AIR QUALITY
+•ALARMING SYSTEM IN CASE OF FIRE 
+•LARGE RADIUS 
+•CAN TELL THE DIFF BETWEEN ACTUAL SMOKE AND A PERSON SMOKING
+•WIFI connectivity
+•RUNS ON BATTERY FOR POWER SUPPLY
+•ECONOMICAL
+•All combined in one single device that can be hanged on the wall
+
+
+3.
+Increase Precision of the device

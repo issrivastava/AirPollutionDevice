@@ -1,0 +1,27 @@
+It should be able to detect the following gases
+1.Carbon Dioxide CO₂
+2.Oxygen O2
+1.Carbon Monoxide CO
+2.Hydrogen Cyanide HCN
+- Zyklon B 
+3.Hydrogen Sulfide H₂S
+4.Phosgene COCl₂
+5.Chlorine Gas Cl₂
+6.Ammonia NH₃
+7.Nitrogen Oxides NOx 
+8.Nitrogen Dioxide NO₂
+8.Sulfur Dioxide SO₂
+9.Methane CH₄
+10.Inert Gases 
+-Helium He 
+-Argon Ar
+-Nitrogen N2
+10.Nerve Agents(Chemical Warfare Gases) 
+-Sarin(GB)
+-VX
+-Soman (GD)
+-Tabun (GA).
+11.Liquefied Petroleum Gas (LPG)
+Composition: Primarily propane (C₃H₈) and butane (C₄H₁₀).
+12. Natural Gas
+Composition: Mostly methane (CH₄), with small amounts of ethane, propane

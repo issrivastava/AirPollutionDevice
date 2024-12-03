@@ -1,0 +1,28 @@
+1.
+Smart Air Quality and Gas Leak Detection Device
+
+This advanced device is designed to assist individuals with respiratory illnesses while enhancing safety in homes and offices. 
+It features real-time air quality monitoring and gas leak detection, with intelligent systems to differentiate between harmless smoke (such as from incense or cigarettes) and dangerous smoke or gas leaks. 
+Equipped with a small camera for human face detection and integrated smoke and gas alarms, the device covers large areas efficiently.
+It can automatically alert authorities in case of prolonged hazardous gas levels or fire emergencies, ensuring timely intervention.
+
+
+
+2.
+-- A small device powerful enough to inform the user generally air quality as well as alerting the authorities in case of any unfortunate accident.
+
+
+
+3.
+AirSential
+
+Advanced Smart Device for Air Quality Monitoring, Gas Leak Detection, and Emergency Response
+–- Safeguarding Respiratory Health with Intelligent Hazard Prevention
+
+
+4. 
+Several IOT projects are present for air quality detection and gas leakage 
+
+however it is very expensive and one device performs only one specific function and is not very efficient.
+
+Therfore,,i aim to create one device that can perform all functions  and is affordable by a common man

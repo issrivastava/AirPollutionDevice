@@ -1,0 +1,19 @@
+1.  Microcontroller
+2.  Wi-Fi Module
+3.  LCD Display
+4.  DC Fan
+5.  Diodes
+6.  IC && IC Sockets
+7.  Regulator
+8.  Transformer
+9.  Sensor 
+10. Capacitors
+11. Transistors
+12. Breadboard/cables/wires/PCB/switch/pushbuttons
+13. Potentiometer
+14. Buzzer 
+15. Resistors
+16. crystal Oscillator  
+17. LEDs
+
+ 

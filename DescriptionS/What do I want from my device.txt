@@ -1,0 +1,11 @@
+What do I want from my device ?
+
+- Detection and Display of Air Components/pollution/smoke/ gas-leakage around its surrrondings.
+- Smart enough to tell the difference between smoke produced from a fire and a cigratte/aggarbatti
+- temp/humidity sensor
+- Basic Light Indicator- Red/Yellow/Green  
+- Wifi connected
+- small and pricise
+- can be placed on a wall
+- Alerting System 
+- Affordable 
